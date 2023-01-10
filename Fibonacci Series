@@ -1,0 +1,11 @@
+const number = parseInt(prompt('Enter the number of terms: '));
+let x = 0, y = 1, next_num;
+
+console.log('Fibonacci Series:');
+
+for (let a = 1; a <= number; a++) {
+    console.log(x);
+    next_num = x + y;
+    x = y;
+    y = next_num;
+}
