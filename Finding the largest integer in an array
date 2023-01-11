@@ -1,0 +1,10 @@
+// Finding the largest integer in an array
+var arr = [6, 12, 52, 56, 62, 20, 67, 88, 54, 104];
+var largest = arr[0];
+
+for (var x = 0; x < arr.length; x++) {
+    if (largest < arr[x] ) {
+        largest = arr[x];
+    }
+}
+console.log(largest);
