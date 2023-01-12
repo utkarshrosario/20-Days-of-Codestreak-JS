@@ -1,0 +1,11 @@
+// Finding the Factorial of an integer
+var factorial_num = prompt('Please enter an integer: ');
+var result = 1;
+
+// Using for loop
+for (a = 1; a <= factorial_num; a++)
+{
+result = result * a;
+}
+
+console.log(factorial_num + '! = ' + result);
