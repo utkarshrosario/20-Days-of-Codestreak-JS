@@ -1,0 +1,18 @@
+// Counting number of occurrences of a character in a string
+function character_count(string, letter) 
+{
+    var letter_count = 0;
+    for (let x = 0; x <= string.length; ++x) 
+    {
+        if (string.charAt(x) === letter) 
+        {
+            letter_count += 1;
+        }
+    }
+    return letter_count;
+}
+const string = prompt('String: ');
+const letterToCheck = prompt('Letter to check: ');
+
+const result = character_count(string, letterToCheck);
+console.log(result);
