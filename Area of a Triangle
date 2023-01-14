@@ -1,0 +1,10 @@
+// Finding the area of the triangle
+var BaseValue = prompt("Base of the triangle : ");
+var HeightValue = prompt("Height of the triangle : ");
+
+// calculate the area of the triangle
+const AreaValue = (BaseValue * HeightValue)/2;
+
+console.log(
+  `The Area of the triangle is ${AreaValue}`
+);
