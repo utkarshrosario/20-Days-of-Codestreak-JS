@@ -9,3 +9,5 @@ Day-4
 <br>Finding the Factorial of an integer using for loop</br>
 Day-5
 <br>Counting number of occurrences of a character in a string</br>
+Day-6
+<br>Area of a Triangle</br>
