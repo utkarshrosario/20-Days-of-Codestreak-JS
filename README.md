@@ -11,3 +11,5 @@ Day-5
 <br>Counting number of occurrences of a character in a string</br>
 Day-6
 <br>Area of a Triangle</br>
+Day-7
+<br>Even or Odd Numbers</br>
