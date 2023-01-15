@@ -1,0 +1,13 @@
+// Even or Odd number
+var number = prompt("Enter a number : ");
+
+// If it is an even number
+if(number % 2 === 0)
+{
+    console.log("Even number");
+}
+// If it is an odd number
+else
+{
+    console.log("Odd number");
+}
