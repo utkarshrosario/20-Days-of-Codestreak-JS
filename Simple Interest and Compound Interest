@@ -15,5 +15,5 @@ amount = p*Math.pow((1 +r/100),t );
 CI = amount-p;
 
 // Output
-document.write("Simple Interest = " + SI);
-document.write("Compound Interest = " + CI);
+document.write("Simple Interest : " + SI);
+document.write("Compound Interest : " + CI);
