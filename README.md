@@ -13,3 +13,5 @@ Day-6
 <br>Area of a Triangle</br>
 Day-7
 <br>Even or Odd Numbers</br>
+Day-8
+<br>Simple Interest and Compound Interest</br>
