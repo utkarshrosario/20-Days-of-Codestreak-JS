@@ -15,3 +15,5 @@ Day-7
 <br>Even or Odd Numbers</br>
 Day-8
 <br>Simple Interest and Compound Interest</br>
+Day-9
+<br>Multiplication Table with Range</br>
