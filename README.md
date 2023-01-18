@@ -17,3 +17,5 @@ Day-8
 <br>Simple Interest and Compound Interest</br>
 Day-9
 <br>Multiplication Table with Range</br>
+Day-10
+<br>Reversing of a string</br>
