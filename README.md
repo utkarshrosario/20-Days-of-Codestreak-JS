@@ -19,3 +19,5 @@ Day-9
 <br>Multiplication Table with Range</br>
 Day-10
 <br>Reversing of a string</br>
+Day-11
+<br>Counting number of vowels</br>
