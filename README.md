@@ -21,3 +21,5 @@ Day-10
 <br>Reversing of a string</br>
 Day-11
 <br>Counting number of vowels</br>
+Day-12
+<br>Square numbers in given range</br>
