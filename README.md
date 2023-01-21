@@ -24,4 +24,4 @@ Day-11
 Day-12
 <br>Square numbers in given range</br>
 Day-13
-<br>Cube numbers in given Range</br>
+<br>Cube numbers in given range</br>
