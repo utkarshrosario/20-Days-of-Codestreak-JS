@@ -1,4 +1,4 @@
-// capitalizing all letters in a string
+// Capitalizing all letters in a string
 function case_change(text) 
 {
     var string = "";
