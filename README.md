@@ -31,3 +31,5 @@ Day-15
 <br>Positive or Negative numbers</br>
 Day-16
 <br>Calculate how many days are left unitl Holi</br>
+Day-17
+<br>Capitalizing all letters in a string</br>
