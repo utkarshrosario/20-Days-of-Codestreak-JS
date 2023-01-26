@@ -33,3 +33,5 @@ Day-16
 <br>Calculate how many days are left unitl Holi</br>
 Day-17
 <br>Capitalizing all letters in a string</br>
+Day-18
+<br>Computing sum and product of a given array</br>
