@@ -36,4 +36,4 @@ Day-17
 Day-18
 <br>Computing sum and product of a given array</br>
 Day-19
-<br>Generating all combinations of a string</br>
+<br>Generate all combinations of a string</br>
