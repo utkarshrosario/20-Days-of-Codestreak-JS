@@ -35,3 +35,5 @@ Day-17
 <br>Capitalizing all letters in a string</br>
 Day-18
 <br>Computing sum and product of a given array</br>
+Day-19
+<br>Generating all combinations of a string</br>
