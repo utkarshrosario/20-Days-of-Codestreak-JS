@@ -1,4 +1,4 @@
-// Generating all combinations of a string
+// Generate all combinations of a string
 function combination_of_string (str)
 {
     var string = new Array();
