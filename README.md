@@ -37,3 +37,5 @@ Day-18
 <br>Computing sum and product of a given array</br>
 Day-19
 <br>Generating all combinations of a string</br>
+Day-20
+<br>Finding HCF(Highest Common Factor) between two numbers</br>
